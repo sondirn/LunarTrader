@@ -1,0 +1,773 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Interface IOrder
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Interface IOrder
+   ">
+    <meta name="generator" content="docfx 2.56.6.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="Alpaca.Markets.IOrder">
+  
+  
+  <h1 id="Alpaca_Markets_IOrder" data-uid="Alpaca.Markets.IOrder" class="text-break">Interface IOrder
+  </h1>
+  <div class="markdown level0 summary"><p>Encapsulates order information from Alpaca REST API.</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="Alpaca.Markets.html">Alpaca.Markets</a></h6>
+  <h6><strong>Assembly</strong>: Alpaca.Markets.dll</h6>
+  <h5 id="Alpaca_Markets_IOrder_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public interface IOrder</code></pre>
+  </div>
+  <h3 id="properties">Properties
+  </h3>
+  
+  
+  <a id="Alpaca_Markets_IOrder_AssetClass_" data-uid="Alpaca.Markets.IOrder.AssetClass*"></a>
+  <h4 id="Alpaca_Markets_IOrder_AssetClass" data-uid="Alpaca.Markets.IOrder.AssetClass">AssetClass</h4>
+  <div class="markdown level1 summary"><p>Gets asset class.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">AssetClass AssetClass { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Alpaca.Markets.AssetClass.html">AssetClass</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_AssetId_" data-uid="Alpaca.Markets.IOrder.AssetId*"></a>
+  <h4 id="Alpaca_Markets_IOrder_AssetId" data-uid="Alpaca.Markets.IOrder.AssetId">AssetId</h4>
+  <div class="markdown level1 summary"><p>Gets unique asset identifier.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Guid AssetId { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Guid</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_AverageFillPrice_" data-uid="Alpaca.Markets.IOrder.AverageFillPrice*"></a>
+  <h4 id="Alpaca_Markets_IOrder_AverageFillPrice" data-uid="Alpaca.Markets.IOrder.AverageFillPrice">AverageFillPrice</h4>
+  <div class="markdown level1 summary"><p>Gets order average fill price.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">decimal? AverageFillPrice { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_CancelledAtUtc_" data-uid="Alpaca.Markets.IOrder.CancelledAtUtc*"></a>
+  <h4 id="Alpaca_Markets_IOrder_CancelledAtUtc" data-uid="Alpaca.Markets.IOrder.CancelledAtUtc">CancelledAtUtc</h4>
+  <div class="markdown level1 summary"><p>Gets order cancellation timestamp in UTC time zone.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">DateTime? CancelledAtUtc { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_ClientOrderId_" data-uid="Alpaca.Markets.IOrder.ClientOrderId*"></a>
+  <h4 id="Alpaca_Markets_IOrder_ClientOrderId" data-uid="Alpaca.Markets.IOrder.ClientOrderId">ClientOrderId</h4>
+  <div class="markdown level1 summary"><p>Gets client-side order identifier.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">string ClientOrderId { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_CreatedAtUtc_" data-uid="Alpaca.Markets.IOrder.CreatedAtUtc*"></a>
+  <h4 id="Alpaca_Markets_IOrder_CreatedAtUtc" data-uid="Alpaca.Markets.IOrder.CreatedAtUtc">CreatedAtUtc</h4>
+  <div class="markdown level1 summary"><p>Gets order creation timestamp in UTC time zone.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">DateTime? CreatedAtUtc { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_ExpiredAtUtc_" data-uid="Alpaca.Markets.IOrder.ExpiredAtUtc*"></a>
+  <h4 id="Alpaca_Markets_IOrder_ExpiredAtUtc" data-uid="Alpaca.Markets.IOrder.ExpiredAtUtc">ExpiredAtUtc</h4>
+  <div class="markdown level1 summary"><p>Gets order expiration timestamp in UTC time zone.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">DateTime? ExpiredAtUtc { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_FailedAtUtc_" data-uid="Alpaca.Markets.IOrder.FailedAtUtc*"></a>
+  <h4 id="Alpaca_Markets_IOrder_FailedAtUtc" data-uid="Alpaca.Markets.IOrder.FailedAtUtc">FailedAtUtc</h4>
+  <div class="markdown level1 summary"><p>Gets order rejection timestamp in UTC time zone.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">DateTime? FailedAtUtc { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_FilledAtUtc_" data-uid="Alpaca.Markets.IOrder.FilledAtUtc*"></a>
+  <h4 id="Alpaca_Markets_IOrder_FilledAtUtc" data-uid="Alpaca.Markets.IOrder.FilledAtUtc">FilledAtUtc</h4>
+  <div class="markdown level1 summary"><p>Gets order fill timestamp in UTC time zone.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">DateTime? FilledAtUtc { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_FilledQuantity_" data-uid="Alpaca.Markets.IOrder.FilledQuantity*"></a>
+  <h4 id="Alpaca_Markets_IOrder_FilledQuantity" data-uid="Alpaca.Markets.IOrder.FilledQuantity">FilledQuantity</h4>
+  <div class="markdown level1 summary"><p>Gets filled order quantity.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">long FilledQuantity { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int64</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_HighWaterMark_" data-uid="Alpaca.Markets.IOrder.HighWaterMark*"></a>
+  <h4 id="Alpaca_Markets_IOrder_HighWaterMark" data-uid="Alpaca.Markets.IOrder.HighWaterMark">HighWaterMark</h4>
+  <div class="markdown level1 summary"><p>Gets the current high water mark price for trailing stop orders.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">decimal? HighWaterMark { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_Legs_" data-uid="Alpaca.Markets.IOrder.Legs*"></a>
+  <h4 id="Alpaca_Markets_IOrder_Legs" data-uid="Alpaca.Markets.IOrder.Legs">Legs</h4>
+  <div class="markdown level1 summary"><p>Gets legs for this order.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">IReadOnlyList&lt;IOrder&gt; Legs { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Collections.Generic.IReadOnlyList</span>&lt;<a class="xref" href="Alpaca.Markets.IOrder.html">IOrder</a>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_LimitPrice_" data-uid="Alpaca.Markets.IOrder.LimitPrice*"></a>
+  <h4 id="Alpaca_Markets_IOrder_LimitPrice" data-uid="Alpaca.Markets.IOrder.LimitPrice">LimitPrice</h4>
+  <div class="markdown level1 summary"><p>Gets order limit price for limit and stop-limit orders.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">decimal? LimitPrice { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_OrderId_" data-uid="Alpaca.Markets.IOrder.OrderId*"></a>
+  <h4 id="Alpaca_Markets_IOrder_OrderId" data-uid="Alpaca.Markets.IOrder.OrderId">OrderId</h4>
+  <div class="markdown level1 summary"><p>Gets unique server-side order identifier.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Guid OrderId { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Guid</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_OrderSide_" data-uid="Alpaca.Markets.IOrder.OrderSide*"></a>
+  <h4 id="Alpaca_Markets_IOrder_OrderSide" data-uid="Alpaca.Markets.IOrder.OrderSide">OrderSide</h4>
+  <div class="markdown level1 summary"><p>Gets order side (buy or sell).</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">OrderSide OrderSide { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Alpaca.Markets.OrderSide.html">OrderSide</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_OrderStatus_" data-uid="Alpaca.Markets.IOrder.OrderStatus*"></a>
+  <h4 id="Alpaca_Markets_IOrder_OrderStatus" data-uid="Alpaca.Markets.IOrder.OrderStatus">OrderStatus</h4>
+  <div class="markdown level1 summary"><p>Gets current order status.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">OrderStatus OrderStatus { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Alpaca.Markets.OrderStatus.html">OrderStatus</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_OrderType_" data-uid="Alpaca.Markets.IOrder.OrderType*"></a>
+  <h4 id="Alpaca_Markets_IOrder_OrderType" data-uid="Alpaca.Markets.IOrder.OrderType">OrderType</h4>
+  <div class="markdown level1 summary"><p>Gets order type.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">OrderType OrderType { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Alpaca.Markets.OrderType.html">OrderType</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_Quantity_" data-uid="Alpaca.Markets.IOrder.Quantity*"></a>
+  <h4 id="Alpaca_Markets_IOrder_Quantity" data-uid="Alpaca.Markets.IOrder.Quantity">Quantity</h4>
+  <div class="markdown level1 summary"><p>Gets original order quantity.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">long Quantity { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Int64</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_StopPrice_" data-uid="Alpaca.Markets.IOrder.StopPrice*"></a>
+  <h4 id="Alpaca_Markets_IOrder_StopPrice" data-uid="Alpaca.Markets.IOrder.StopPrice">StopPrice</h4>
+  <div class="markdown level1 summary"><p>Gets order stop price for stop and stop-limit orders.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">decimal? StopPrice { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_SubmittedAtUtc_" data-uid="Alpaca.Markets.IOrder.SubmittedAtUtc*"></a>
+  <h4 id="Alpaca_Markets_IOrder_SubmittedAtUtc" data-uid="Alpaca.Markets.IOrder.SubmittedAtUtc">SubmittedAtUtc</h4>
+  <div class="markdown level1 summary"><p>Gets order submission timestamp in UTC time zone.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">DateTime? SubmittedAtUtc { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_Symbol_" data-uid="Alpaca.Markets.IOrder.Symbol*"></a>
+  <h4 id="Alpaca_Markets_IOrder_Symbol" data-uid="Alpaca.Markets.IOrder.Symbol">Symbol</h4>
+  <div class="markdown level1 summary"><p>Gets asset name.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">string Symbol { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_TimeInForce_" data-uid="Alpaca.Markets.IOrder.TimeInForce*"></a>
+  <h4 id="Alpaca_Markets_IOrder_TimeInForce" data-uid="Alpaca.Markets.IOrder.TimeInForce">TimeInForce</h4>
+  <div class="markdown level1 summary"><p>Gets order duration.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">TimeInForce TimeInForce { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a class="xref" href="Alpaca.Markets.TimeInForce.html">TimeInForce</a></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_TrailOffsetInDollars_" data-uid="Alpaca.Markets.IOrder.TrailOffsetInDollars*"></a>
+  <h4 id="Alpaca_Markets_IOrder_TrailOffsetInDollars" data-uid="Alpaca.Markets.IOrder.TrailOffsetInDollars">TrailOffsetInDollars</h4>
+  <div class="markdown level1 summary"><p>Gets the profit taking limit price for advanced order types.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">decimal? TrailOffsetInDollars { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_TrailOffsetInPercent_" data-uid="Alpaca.Markets.IOrder.TrailOffsetInPercent*"></a>
+  <h4 id="Alpaca_Markets_IOrder_TrailOffsetInPercent" data-uid="Alpaca.Markets.IOrder.TrailOffsetInPercent">TrailOffsetInPercent</h4>
+  <div class="markdown level1 summary"><p>Gets the stop loss stop price for advanced order types.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">decimal? TrailOffsetInPercent { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.Decimal</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  
+  
+  <a id="Alpaca_Markets_IOrder_UpdatedAtUtc_" data-uid="Alpaca.Markets.IOrder.UpdatedAtUtc*"></a>
+  <h4 id="Alpaca_Markets_IOrder_UpdatedAtUtc" data-uid="Alpaca.Markets.IOrder.UpdatedAtUtc">UpdatedAtUtc</h4>
+  <div class="markdown level1 summary"><p>Gets last order update timestamp in UTC time zone.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">DateTime? UpdatedAtUtc { get; }</code></pre>
+  </div>
+  <h5 class="propertyValue">Property Value</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.Nullable</span>&lt;<span class="xref">System.DateTime</span>&gt;</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+                <h5>In This Article</h5>
+                <div></div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>

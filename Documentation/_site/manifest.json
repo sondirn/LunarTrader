@@ -1,0 +1,1674 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Dev/AlgoTrading/AlpacaAPI/alpaca-trade-api-csharp-develop/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AccountActivitiesRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AccountActivitiesRequest.html",
+          "hash": "qqzK4awJ/ep7jI4dfIvDmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AccountActivityType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AccountActivityType.html",
+          "hash": "AS3Znk/5aiouI5F/7M9lVw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AccountStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AccountStatus.html",
+          "hash": "N/Am6/kIoeIvx/rzK6K7WQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AdvancedOrderBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AdvancedOrderBase.html",
+          "hash": "I32o49DVaa0GsR8KnGry9w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AggregatesRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AggregatesRequest.html",
+          "hash": "OKXORoA3++LPjk5dz7AZsg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AggregationPeriod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AggregationPeriod.html",
+          "hash": "tcUufDGOvgM9vT3xzwzdJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AggregationPeriodUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AggregationPeriodUnit.html",
+          "hash": "Bd5ar851on+Xq8Oq+TCh7g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AggregationType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AggregationType.html",
+          "hash": "FGRlc362snljZEAAn92gGg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AlpacaDataClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AlpacaDataClient.html",
+          "hash": "23rF9TghQKkIsRogjp/xMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AlpacaDataClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AlpacaDataClientConfiguration.html",
+          "hash": "GQMR27XUBzZrgqRyShhH/g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AlpacaDataStreamingClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AlpacaDataStreamingClient.html",
+          "hash": "dVH0cy0aqYPaP+Wocptg7Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AlpacaDataStreamingClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AlpacaDataStreamingClientConfiguration.html",
+          "hash": "WcG8qprhZ4yLBxclrtZNjg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AlpacaStreamingClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AlpacaStreamingClient.html",
+          "hash": "pKgmXmYG4bze+eExN1BTbw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AlpacaStreamingClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AlpacaStreamingClientConfiguration.html",
+          "hash": "1EHHx3bv0xNEsBvbGYGgiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AlpacaTradingClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AlpacaTradingClient.html",
+          "hash": "wYiDHZa+iob2MQMYOtfCSg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AlpacaTradingClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AlpacaTradingClientConfiguration.html",
+          "hash": "607t8ho1OVnKngjFyMTn5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AssetClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AssetClass.html",
+          "hash": "TFc9smpVJOzAMtdx0iDR1Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AssetStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AssetStatus.html",
+          "hash": "13Jyevogxv5U7AlCkG6C5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AssetsRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AssetsRequest.html",
+          "hash": "4LjJZXXn37PdfQQVyGO5mw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.AuthStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.AuthStatus.html",
+          "hash": "aVThCGzKCanAzOByIfyRXw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.BarSetRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.BarSetRequest.html",
+          "hash": "s1N3VK3Lqo9DmoPYKSTIuA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.BracketOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.BracketOrder.html",
+          "hash": "M4cP23CumAaVXd3K7eoAOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.CalendarRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.CalendarRequest.html",
+          "hash": "0rDidDK2FyEss29LML8wsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ChangeOrderRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ChangeOrderRequest.html",
+          "hash": "4kajeebRM3AdvOrJk0xwWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ChangeWatchListRequest-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ChangeWatchListRequest-1.html",
+          "hash": "c4SA/kmd6HZzmGD2e4KN2g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.DayTradeMarginCallProtection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.DayTradeMarginCallProtection.html",
+          "hash": "1ih/CdCDYJGjuiK6HQOk4Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.DeleteAllPositionsRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.DeleteAllPositionsRequest.html",
+          "hash": "0tCF1RELV4k9xqDPmJroDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.DeletePositionRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.DeletePositionRequest.html",
+          "hash": "zJVcYYngFb/ROr6p0OsPIg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.EnvironmentExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.EnvironmentExtensions.html",
+          "hash": "y9HZgG3shuH+lntXynosZw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.Environments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.Environments.html",
+          "hash": "BTBMK3CABBELC6WEVqnk5w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.Exchange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.Exchange.html",
+          "hash": "Xpfu+FE8rvUVp35zNlGEDw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ExchangeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ExchangeType.html",
+          "hash": "cgr/Xx95k9UmHi4NPr63lQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.HistoricalRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.HistoricalRequest.html",
+          "hash": "IAuHacS8mVdF3OYEE77PfQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.HistoryPeriod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.HistoryPeriod.html",
+          "hash": "s/4we6ZQ2v5LSI0mH8lWzA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.HistoryPeriodUnit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.HistoryPeriodUnit.html",
+          "hash": "UFiUTGu9+lyz+nY5ZIQEgA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAccount.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAccount.html",
+          "hash": "SJZcOj4xp556Lf+9T83YwQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAccountActivity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAccountActivity.html",
+          "hash": "M+GbjUjQtI+gPRuytxqUiA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAccountBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAccountBase.html",
+          "hash": "DoprdjLer42Kd6uPeqI/Fw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAccountConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAccountConfiguration.html",
+          "hash": "1YPlgubwj05mAMHwzhj99w=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAccountUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAccountUpdate.html",
+          "hash": "kNu0StQg9G2w4hacN6YmUw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAgg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAgg.html",
+          "hash": "6GO85CQkw8dA6CMBH7Mcxg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAggBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAggBase.html",
+          "hash": "l5uKV+HrBs7prv2WV4cWrg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAlpacaDataClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAlpacaDataClient.html",
+          "hash": "n2ESz0eDvsX2daPP3/0LFA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAlpacaDataStreamingClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAlpacaDataStreamingClient.html",
+          "hash": "csfant3pArr4FHB7dLqhQg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAlpacaDataSubscription-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAlpacaDataSubscription-1.html",
+          "hash": "jmhxHjmPKj30QULxJjRkYQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAlpacaDataSubscription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAlpacaDataSubscription.html",
+          "hash": "6DOnrmv5Gntmf6sZAY+fRg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAlpacaStreamingClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAlpacaStreamingClient.html",
+          "hash": "G82MST0hvY5mmlirNrG+Hw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAlpacaTradingClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAlpacaTradingClient.html",
+          "hash": "pl8+bmDWMFPuiZez+rbZ7A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IAsset.html",
+          "hash": "7JURSNjgY0mvnts2MFMhSA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ICalendar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ICalendar.html",
+          "hash": "JmcYv90uWR7yRnVlhFHGeQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IClock.html",
+          "hash": "hLst0wavSJ3Q06SOuUfECw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IEnvironment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IEnvironment.html",
+          "hash": "dGmhOTzkXY+aE61eqTz18Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IExchange.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IExchange.html",
+          "hash": "TLGn7KTZeb6pKstXiKaYGw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IExclusiveTimeInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IExclusiveTimeInterval.html",
+          "hash": "6Kkm2nLMNKGhCVEvM8dTcw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IHistoricalBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IHistoricalBase.html",
+          "hash": "R1qQHwuG7aZrPkKVXzwXiw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IHistoricalItems-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IHistoricalItems-1.html",
+          "hash": "f7khQzzo+O6R0ISNpNnedA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IHistoricalQuote.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IHistoricalQuote.html",
+          "hash": "BhjZZo3lGyMNqrW0biqV8w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IHistoricalTrade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IHistoricalTrade.html",
+          "hash": "bmlFSVit59H7aSazOE80dQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IInclusiveTimeInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IInclusiveTimeInterval.html",
+          "hash": "/jUHCBUTlJGlG8eQWmVGNg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ILastQuote.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ILastQuote.html",
+          "hash": "aiMJMlBgMDrl1/yyzjb+tQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ILastTrade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ILastTrade.html",
+          "hash": "PTDiw8nB4ROMEMblH8cxwA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IOrder.html",
+          "hash": "9ZdLrKNWa1QeZTjjvZKj0A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IOrderActionStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IOrderActionStatus.html",
+          "hash": "z1/4enyR8MBtC/tV/0dSMQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IPolygonDataClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IPolygonDataClient.html",
+          "hash": "oWDF5XRvI+9I0Ldp0w2jAw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IPolygonStreamingClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IPolygonStreamingClient.html",
+          "hash": "zORK7zWipD49bv4r/ZyhOg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IPortfolioHistory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IPortfolioHistory.html",
+          "hash": "WHoBVAaO2wlwysCQZeKMCg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IPortfolioHistoryItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IPortfolioHistoryItem.html",
+          "hash": "9xob5gS0kBReEw6isjZ+mg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IPosition.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IPosition.html",
+          "hash": "UvblA8QA1yR3yItqG6PwGQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IPositionActionStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IPositionActionStatus.html",
+          "hash": "V6xHIwiivrjuP2FTaTR92A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IQuoteBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IQuoteBase-1.html",
+          "hash": "F+9vR1sVM90YehdGqiiIcQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IRequestWithTimeInterval-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IRequestWithTimeInterval-1.html",
+          "hash": "oTceBiplHVSXvPLHMKUNeg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IStopLoss.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IStopLoss.html",
+          "hash": "c5sPZFJB2UqBc8+GFfqQNw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IStreamAgg.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IStreamAgg.html",
+          "hash": "xN/q5jCR5qHET/IOHLHbmg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IStreamBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IStreamBase.html",
+          "hash": "bsy+F410GllhRtB16wLmqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IStreamQuote.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IStreamQuote.html",
+          "hash": "F8JvTtpq7rAQBmYg3tldUA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IStreamTrade.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IStreamTrade.html",
+          "hash": "zvKOip1xLbmQ8+nB6eP0uw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IStreamingClientBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IStreamingClientBase.html",
+          "hash": "3ngPUk+2nltYaNiTmj6T+A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ITakeProfit.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ITakeProfit.html",
+          "hash": "VaLwclAXuhshTP4uh/qGdw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ITimeInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ITimeInterval.html",
+          "hash": "VLzLJTmNWOQu8zbXL+HzxA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ITimestamps.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ITimestamps.html",
+          "hash": "FFb54Gridv/gqi+tHo3qfw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ITradeUpdate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ITradeUpdate.html",
+          "hash": "eOf7r3WiZkD5h9NUQRmbIA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IWatchList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IWatchList.html",
+          "hash": "E9RC47cypUOTSRN4DrzwKQ=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IWebSocket.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IWebSocket.html",
+          "hash": "vfP3JZvOk2lmdnnmAP/0zw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.IWebSocketFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.IWebSocketFactory.html",
+          "hash": "ruVA65L3BsUz5VLIJ9DuTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.LimitOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.LimitOrder.html",
+          "hash": "B/2IUrjIgmvMWdWO7yzYSA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ListOrdersRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ListOrdersRequest.html",
+          "hash": "6WHC2/rFJOubNhV5aduMoQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.MarketDataType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.MarketDataType.html",
+          "hash": "hmT+jP+GMA+ayaMd1ltKqA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.MarketOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.MarketOrder.html",
+          "hash": "pdR0BBIqvzSP3PRvSpQx9Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.NewOrderRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.NewOrderRequest.html",
+          "hash": "GmHV6/kHUuf3coQaHZMepA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.NewWatchListRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.NewWatchListRequest.html",
+          "hash": "wQdUwAynS/tqOD/VKB8lDw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OAuthKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OAuthKey.html",
+          "hash": "kjTf6WFIPv3ZqZbNBEOSRg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OneCancelsOtherOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OneCancelsOtherOrder.html",
+          "hash": "xkgnZ/Oxxu79HfD2FKcfzg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OrderBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OrderBase.html",
+          "hash": "hWKddFWPO4+1QJxqaCnp9g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OrderBaseExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OrderBaseExtensions.html",
+          "hash": "3mR78mMH/1Owlah3FP4s3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OrderClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OrderClass.html",
+          "hash": "asha8FMwofdgL1hxuCYz6g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OrderSide.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OrderSide.html",
+          "hash": "qtDKQ931ytWUii7mRncWPA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OrderSideExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OrderSideExtensions.html",
+          "hash": "AraVpTkQ+W3FUsUIGgKmJg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OrderStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OrderStatus.html",
+          "hash": "1hMyRb+Pm5MDbn/J22qSEg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OrderStatusFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OrderStatusFilter.html",
+          "hash": "twGScuomIeExTVQ9Oc2olw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.OrderType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.OrderType.html",
+          "hash": "Wj440f3sYPhBqAm0MeW47Q=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.PolygonDataClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.PolygonDataClient.html",
+          "hash": "q6dn+/ErY0Tq/2mv3uAX7w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.PolygonDataClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.PolygonDataClientConfiguration.html",
+          "hash": "wWOAvJfi1nDgCmpSn1pRTg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.PolygonStreamingClient.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.PolygonStreamingClient.html",
+          "hash": "IELC4T53gFkmHkwUTcmqkw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.PolygonStreamingClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.PolygonStreamingClientConfiguration.html",
+          "hash": "xv88QFJXj4DhmyTkMcbSWg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.PortfolioHistoryRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.PortfolioHistoryRequest.html",
+          "hash": "th4p4Xv702VeITNOd5jb0g=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.PositionSide.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.PositionSide.html",
+          "hash": "6qHJHBct3Hua6LSZOpauIg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.RequestValidationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.RequestValidationException.html",
+          "hash": "1uh9+kypzKdhjN1XY35YOw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.RestClientErrorException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.RestClientErrorException.html",
+          "hash": "yO5bXKwZpxxAgCYMXiuzmw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.SecretKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.SecretKey.html",
+          "hash": "LV+7vkkcOn8t/Fj/RAo4VQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.SecurityKey.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.SecurityKey.html",
+          "hash": "YHnbYE3UctGg0k2T8sOqMQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.SimpleOrderBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.SimpleOrderBase.html",
+          "hash": "nELd1cmWbffLFADNGDZESw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.SortDirection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.SortDirection.html",
+          "hash": "j50tjt7UJuaRpA1nTmFCzw=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.StopLimitOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.StopLimitOrder.html",
+          "hash": "7rqttLM05gba2ppAHst6rA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.StopLossOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.StopLossOrder.html",
+          "hash": "FR5O+phtXuw8GyINn6ZDwg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.StopOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.StopOrder.html",
+          "hash": "DpAC6lNHsqNZe7r6G5x5qA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.StreamingClientBase-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.StreamingClientBase-1.html",
+          "hash": "0rJBfgLCpoZjLFQM4XbjiQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.StreamingClientConfiguration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.StreamingClientConfiguration.html",
+          "hash": "v0nbPX2v7lbZWWbA00nO3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TakeProfitOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TakeProfitOrder.html",
+          "hash": "JuEcFWnHPLCGa14yZnUa5A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.ThrottleParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.ThrottleParameters.html",
+          "hash": "Thf6EWCf5Ovo+x4vYDC/oA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TickType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TickType.html",
+          "hash": "0TqZzd4Qo2DoCnNOqHanDg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TimeFrame.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TimeFrame.html",
+          "hash": "UGyBu6sF9TlSmQzwqDRN5g=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TimeInForce.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TimeInForce.html",
+          "hash": "dT3ejHqtq1Xw7rte1uEXDA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TimeInterval.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TimeInterval.html",
+          "hash": "G6Nfv8mPoNfJwL8bPKLtjw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TradeConfirmEmail.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TradeConfirmEmail.html",
+          "hash": "460+7TgrdfSrdTzbBxHKkg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TradeEvent.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TradeEvent.html",
+          "hash": "W7Tp44Y+mdfwa4XqxGqiVg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TrailOffset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TrailOffset.html",
+          "hash": "6iD5RmT++1wnVL9MYKyQsQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.TrailingStopOrder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.TrailingStopOrder.html",
+          "hash": "wSj1TY2Xr2+tI7H+bPYkWw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.UpdateWatchListRequest.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.UpdateWatchListRequest.html",
+          "hash": "5H8RgXNxDLWMIIA8Bmq4Cg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Alpaca.Markets.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Alpaca.Markets.html",
+          "hash": "mfSRLGrym1hG/rziDATMTQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "Fez2LAJlA/LcxwsSJvD1Lg=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "gJgguqarf9XoNASIl8+fAg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "u7iyFsWZ0P/tFcwWRPkc4A=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "gB8AESyvNru97tzIZofEEg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "trvW/1BRCrBJaL40IJZ+dA=="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "+rHUkRZHZRi5gd1aTU6lJA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 129,
+          "skipped_file_count": 61
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
