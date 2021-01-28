@@ -4,12 +4,12 @@ using System.Diagnostics;
 using System.Threading.Tasks;
 using Alpaca.Markets;
 using Microsoft.Extensions.DependencyInjection;
-using TestTradingBot.Interfaces;
-using TestTradingBot.Services;
-using TestTradingBot.Utils;
-using CommandService = TestTradingBot.Services.CommandService;
+using LunarTrader.Interfaces;
+using LunarTrader.Services;
+using LunarTrader.Utils;
+using CommandService = LunarTrader.Services.CommandService;
 
-namespace TestTradingBot
+namespace LunarTrader
 {
     public static class Core
     {

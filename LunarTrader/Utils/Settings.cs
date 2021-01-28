@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using TestTradingBot.Enums;
+using LunarTrader.Enums;
 
-namespace TestTradingBot.Utils
+namespace LunarTrader.Utils
 {
     public class Settings
     {

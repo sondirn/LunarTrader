@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Threading.Tasks;
 using Alpaca.Markets;
-using TestTradingBot.Utils;
+using LunarTrader.Utils;
 
-namespace TestTradingBot.Interfaces
+namespace LunarTrader.Interfaces
 {
     public interface ICoreService
     {

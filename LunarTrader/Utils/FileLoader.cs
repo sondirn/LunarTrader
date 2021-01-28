@@ -4,7 +4,7 @@ using System.IO;
 using Newtonsoft.Json;
 using Pastel;
 
-namespace TestTradingBot.Utils
+namespace LunarTrader.Utils
 {
     public class FileLoader
     {

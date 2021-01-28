@@ -5,11 +5,11 @@ using System.Threading;
 using System.Threading.Tasks;
 using Alpaca.Markets;
 using Microsoft.Extensions.DependencyInjection;
-using TestTradingBot.Attributes;
-using TestTradingBot.Interfaces;
-using TestTradingBot.Utils;
+using LunarTrader.Attributes;
+using LunarTrader.Interfaces;
+using LunarTrader.Utils;
 
-namespace TestTradingBot.Services
+namespace LunarTrader.Services
 {
     public class CoreService : ICoreService
     {

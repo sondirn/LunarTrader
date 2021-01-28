@@ -5,11 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 using Alpaca.Markets;
 using Microsoft.Extensions.DependencyInjection;
-using TestTradingBot.Attributes;
-using TestTradingBot.Interfaces;
-using TestTradingBot.Services;
+using LunarTrader.Attributes;
+using LunarTrader.Interfaces;
+using LunarTrader.Services;
 
-namespace TestTradingBot.Utils
+namespace LunarTrader.Utils
 {
     public static class Commands
     {

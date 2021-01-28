@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Drawing;
 using Alpaca.Markets;
 using Pastel;
-using TestTradingBot.Enums;
-using TestTradingBot.Interfaces;
-using TestTradingBot.Utils;
+using LunarTrader.Enums;
+using LunarTrader.Interfaces;
+using LunarTrader.Utils;
 
-namespace TestTradingBot.Services
+namespace LunarTrader.Services
 {
     public class LoggerService : ILoggerService, IDisposable
     {

@@ -5,12 +5,12 @@ using System.Reflection;
 using System.Threading.Tasks;
 using Alpaca.Markets;
 using Microsoft.Extensions.DependencyInjection;
-using TestTradingBot.Attributes;
-using TestTradingBot.Interfaces;
-using TestTradingBot.Utils;
+using LunarTrader.Attributes;
+using LunarTrader.Interfaces;
+using LunarTrader.Utils;
 using WebSocket4Net.Common;
 
-namespace TestTradingBot.Services
+namespace LunarTrader.Services
 {
     public partial class CommandService : ICommandService
     {

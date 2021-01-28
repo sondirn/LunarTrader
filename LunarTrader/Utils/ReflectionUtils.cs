@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Reflection;
 
-namespace TestTradingBot.Utils
+namespace LunarTrader.Utils
 {
     public static class ReflectionUtils
 	{

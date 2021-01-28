@@ -1,10 +1,10 @@
 ﻿using System;
 using Alpaca.Markets;
 using Microsoft.Extensions.DependencyInjection;
-using TestTradingBot.Attributes;
-using TestTradingBot.Interfaces;
+using LunarTrader.Attributes;
+using LunarTrader.Interfaces;
 
-namespace TestTradingBot.Services
+namespace LunarTrader.Services
 {
     public class AccountService : IAccountService
     {

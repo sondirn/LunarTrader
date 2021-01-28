@@ -14,7 +14,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Alpaca.Markets\Alpaca.Markets.csproj" />
+      <ProjectReference Include="..\Alpaca.Markets.API\Alpaca.Markets.Extensions\Alpaca.Markets.Extensions.csproj" />
+      <ProjectReference Include="..\Alpaca.Markets.API\Alpaca.Markets\Alpaca.Markets.csproj" />
     </ItemGroup>
 
 </Project>

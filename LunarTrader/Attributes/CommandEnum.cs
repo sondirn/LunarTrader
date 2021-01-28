@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestTradingBot.Attributes
+namespace LunarTrader.Attributes
 {
     [AttributeUsage(AttributeTargets.Enum)]
     public class CommandEnum : Attribute

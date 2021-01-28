@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Alpaca.Markets;
-using TestTradingBot.Enums;
+using LunarTrader.Enums;
 
-namespace TestTradingBot.Interfaces
+namespace LunarTrader.Interfaces
 {
     public interface ILoggerService
     {

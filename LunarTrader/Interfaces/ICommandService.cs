@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
-using TestTradingBot.Services;
+using LunarTrader.Services;
 using WebSocket4Net.Common;
 
-namespace TestTradingBot.Interfaces
+namespace LunarTrader.Interfaces
 {
     public interface ICommandService
     {

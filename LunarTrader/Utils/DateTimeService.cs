@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Threading.Tasks;
 using Alpaca.Markets;
-using TestTradingBot.Interfaces;
+using LunarTrader.Interfaces;
 
-namespace TestTradingBot.Utils
+namespace LunarTrader.Utils
 {
     public class DateTimeService : IDateTimeService
     {

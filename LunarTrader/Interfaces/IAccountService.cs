@@ -1,6 +1,6 @@
 ﻿using Alpaca.Markets;
 
-namespace TestTradingBot.Interfaces
+namespace LunarTrader.Interfaces
 {
     public interface IAccountService
     {

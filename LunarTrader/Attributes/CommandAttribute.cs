@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace TestTradingBot.Attributes
+namespace LunarTrader.Attributes
 {
     [AttributeUsage(AttributeTargets.Method)]
     public class CommandAttribute : Attribute

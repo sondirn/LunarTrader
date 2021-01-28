@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TestTradingBot.Enums
+namespace LunarTrader.Enums
 {
     public enum LogLevel
     {
