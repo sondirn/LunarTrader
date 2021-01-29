@@ -50,7 +50,7 @@ namespace LunarTrader.Utils
             {
                 var str = new StringBuilder();
                 str.Append("Commands list: ");
-                str.Append(string.Join(", ", cmdService.Sorted));
+                str.Append(string.Join(" | ", cmdService.Sorted));
                 logger.LogInfo($"{str.ToString()}");
                 logger.LogInfo("Type 'help [command name]' for more info on that command");
             }
